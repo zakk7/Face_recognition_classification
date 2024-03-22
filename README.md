@@ -23,7 +23,6 @@ This project involves scraping player images from the web using Selenium and Pyt
 To scrape images, run the `search_and_download` function with the desired number of images:
 
 ```python
-from scraper import search_and_download
 
 search_and_download(number_of_images=200)
 ```
@@ -34,7 +33,6 @@ Contributions to this project are welcome. Please fork the repository and submit
 
 
 ## Acknowledgment
-Code taken and modified from [name](url)
 
 Thanks to all the contributors who have helped with this project.
 Special thanks to the Selenium community for providing an excellent tool for web automation.
