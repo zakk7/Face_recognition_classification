@@ -26,7 +26,7 @@ To scrape images, run the `search_and_download` function with the desired number
 from scraper import search_and_download
 
 search_and_download(number_of_images=200)
-
+```
 
 ## Contributing
 Contributions to this project are welcome. Please fork the repository and submit a pull request.
