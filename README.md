@@ -3,7 +3,8 @@
 ## Project Overview
 This project involves scraping player images from the web using Selenium and Python. The images are used in a subsequent project for face detection and classification.
 
-![alt text](image.png)
+![image](https://github.com/zakk7/Face_recognition_classification/assets/110348449/65c9a5b4-83ba-4b5f-8ef0-90e34771908d)
+
 
 ## Prerequisites
 - Python 3.x
